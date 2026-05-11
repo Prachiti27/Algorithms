@@ -1,0 +1,52 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Static and Dynamic libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# Visual Studio
+.vs/
+
+# Mac
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
